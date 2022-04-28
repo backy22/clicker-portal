@@ -6,12 +6,6 @@
     "@terra-money/terrain": "0.2.0",
     "dotenv": "^16.0.0"
   },
-  "scripts": {
-    "start": "cd frontend && react-scripts start",
-    "build": "cd frontend && react-scripts build",
-    "test": "cd frontend && react-scripts test",
-    "eject": "cd frontend && react-scripts eject"
-},
   "workspaces": [
     "frontend"
   ],
