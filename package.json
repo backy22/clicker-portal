@@ -9,6 +9,9 @@
   "workspaces": [
     "frontend"
   ],
+  "scripts": {
+    "start": "cd frontend && react-scripts start"
+},
   "author": "",
   "license": "ISC"
 }
