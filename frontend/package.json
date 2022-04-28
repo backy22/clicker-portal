@@ -1,6 +1,7 @@
 {
     "name": "test",
     "version": "0.1.0",
+    "private": false,
     "dependencies": {
         "@terra-dev/use-wallet": "^2.5.2",
         "@terra-money/terra.js": "^3.0.11",
